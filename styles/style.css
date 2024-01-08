@@ -130,3 +130,62 @@ header{
     margin-left: 600px;
     margin-top: 50px;
 }
+.upcomming{
+    display: flex;
+    margin-top: 230px;
+}
+.upcomming-left{
+    justify-content: center;
+    line-height: 20px;
+    margin-top: 100px;
+}
+.new{
+    color: red;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500px;
+    margin-left: 150px;
+}
+.comming{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    margin-left: 150px;
+    margin-top: 16px;
+}
+.dolor{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+}
+.ellipse{
+    max-height: 370px;
+    max-width: 370px;
+    padding: 50px;
+    border-radius: 480px;
+    border: 15px solid red;
+}
+.sit{
+    margin-left: 130px;
+    justify-content: center;
+    line-height: 20px;
+    margin-top: 90px;
+}
+.date{
+    color: red;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+.amet{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    justify-content: center;
+}
