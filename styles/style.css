@@ -2,7 +2,6 @@ header{
     background-image: url('../resources/Banner\ Image.png');
     width: 1320px;
     height: 600px;
-    flex-shrink: 0;
     background-repeat: no-repeat;
     font-family: Merriweather;
     margin-left: 280px;
@@ -86,6 +85,7 @@ header{
 }
 .image{
     margin-top: 68px;
+    background: none;
 }
 .btn-join{
     color: white;
@@ -188,4 +188,268 @@ header{
     font-weight: 400;
     line-height: 32px;
     justify-content: center;
+}
+.functional{
+    margin-top: 150px;
+    line-height: 20px;
+    text-align: center;
+}
+.function{
+    color:black;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.holidays{
+    color: black;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+}
+.holidays span{
+    color: red;
+}
+.eget{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    justify-content: center;
+    padding-left: 570px;
+    padding-right: 570px;
+}
+.discount{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.bac{
+}
+/*.group-75{
+    padding-top: 300px;
+    width: 300px;
+    height: 300px;
+}*/
+/*.group-44{
+    width: 200px;
+    height: 200px;
+    padding-top: 100px;
+    margin-left: 700x;
+*/
+/*.rec{
+    background-image: url(../resources/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    width: 429px;
+    height: 433px;
+    border-radius: 16px 16px 0px 0px;
+    background: url lightgray -59.98px 0px / 151.553% 100%;
+    margin-right: 400px;
+    margin-top: 300px;
+}*/
+/*.discount{
+    background-image: url(../resources/Rectangle\ 2.png);
+    width: 1320px;
+    height: 229px;
+    margin-top: 300px;
+    position: absolute;
+    justify-content: center;
+    margin-bottom: 400px;
+}*/
+.group-75{
+    height: 400px;
+    margin-top: 400px;
+}
+.img{
+    background-image: url(../resources/Group\ 44.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    margin-top: 430px;
+    margin-left: 1100px;
+}
+.grp-44{
+    margin-right: 200px;
+    margin-top: 300px;
+
+}
+.portfolio{
+    margin-left: 100px;
+    margin-right: 1050px;
+    line-height: 16px;
+}
+.gift{
+    color: red;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.port{
+    color: blac;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+.sed{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+}
+.asset{
+    margin-left: 100px;
+    margin-right: 500px;
+    justify-content: center;
+}
+.rec3{
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    height: 100%;
+    border-radius: 16px;
+}
+.rec4{
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    height: 100%;
+    border-radius: 16px;
+}
+.rec5{
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    height: 100%;
+    border-radius: 16px;
+}
+.rec6{
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    height: 100%;
+    border-radius: 16px;
+}
+.rec7{
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    height: 100%;
+    border-radius: 16px;
+}
+.rec8{
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    height: 100%;
+    border-radius: 16px;
+}
+.for-subscription{
+    margin-top: 200px;
+    margin-left: 250px;
+    width: 1400px;
+    height: 700px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+.group-61{
+    padding-top: 100px;
+    padding-left: 580px;
+}
+.latter{
+    color: black;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+.ipsum{
+    color: rgba(7, 2, 17, 0.603);
+    text-align: center;
+    padding: 212;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.email{
+    width: 300px;
+    height: 40px;
+    margin-left: 500px;
+    margin-top: 50px;
+    color: black;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 50px 0px 0px 50px;
+    border: none;
+    background: white;
+
+}
+.submit{
+    width: 150px;
+    height: 40px;
+    border-radius: 0px 50px 50px 0px;
+    border: none;
+    background: red;
+    color: white;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+footer{
+    margin-top: 300px;
+    width: 1900px;
+    height: 600px;
+    background-color: black;
+    padding: 100px 150px;
+
+}
+.cnt{
+    display: flex;
+
+}
+.add{
+    color: white;
+    font-family: Inter;
+    font-size: 18px;
+    line-height: 40px;
+    margin-left: 70px;
+}
+.c{
+    color: white;
+    font-family: Inter;
+    font-size: 20px;
+    margin-top: 5px;
+
+}
+.w{
+    color: white;
+    font-family: Inter;
+    font-size: 24px;
+
+}
+.s{
+    margin-left: 800px;
+    margin-top: 50px;
+}
+.social{
+    margin-top: 20px;
+    margin-left: 600px;
+}
+.h{
+    width: 1320px;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+    margin-left: 50px;
+}
+.copyright{
+    justify-content: space-between;
+    margin-top: 300px;
+}
+ small{
+    color: White;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.un{
+    color: white;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    background: transparent ;
+    margin-left: 1300px;
 }
